@@ -1,0 +1,5 @@
+{
+  "name": "EconoScope: Urban carrying capacity advisor",
+  "description": "A machine learning-driven urban development advisor that calculates permissible Floor Area Ratio (FAR) based on environmental carrying capacity and economic constraints.",
+  "requestFramePermissions": []
+}
